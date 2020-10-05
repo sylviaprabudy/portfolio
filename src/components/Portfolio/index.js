@@ -12,63 +12,75 @@ function Portfolio() {
     const [projects] = useState([
         {
             name: 'git-cookin',
-            description: 'MERN Stack',
+            description: 'MySQL/Express/Handlebars/SASS',
             link: "http://git-cookin.herokuapp.com/",
             repo: "https://github.com/sylviaprabudy/git-cookin"
         },
         {
             name: 'covid-traveling',
-            description: 'MERN Stack',
-            link: "https://github.com",
-            repo: "https://github.com"
+            description: 'JQuery/API/Materialize',
+            link: "https://sylviaprabudy.github.io/covid-traveling/",
+            repo: "https://github.com/sylviaprabudy/covid-traveling"
         },
         {
             name: 'run-buddy',
             description: 'HTML/CSS',
-            link: "https://github.com",
-            repo: "https://github.com"
+            link: "https://sylviaprabudy.github.io/run-buddy/",
+            repo: "https://github.com/sylviaprabudy/run-buddy"
         },
         {
             name: 'tech-blog',
-            description: 'Node/IoT',
-            link: "https://github.com",
-            repo: "https://github.com"
+            description: 'Node/MySQL/Sequalize',
+            link: "https://tech-blog-0107.herokuapp.com/",
+            repo: "https://github.com/sylviaprabudy/tech-blog"
         },
         {
             name: 'weather-dashboard',
-            description: 'React/JavaScript/CSS',
-            link: "https://github.com",
-            repo: "https://github.com"
+            description: 'JavaScript/API/Bootstrap',
+            link: "https://sylviaprabudy.github.io/weather-dashboard/",
+            repo: "https://github.com/sylviaprabudy/weather-dashboard"
+        },
+        {
+            name: 'food-festival',
+            description: 'JS/Node/PWA',
+            link: "https://sylviaprabudy.github.io/food-festival/",
+            repo: "https://github.com/sylviaprabudy/food-festival"
         },
         {
             name: 'code-quiz',
-            description: 'MERN Stack',
-            link: "https://github.com",
-            repo: "https://github.com"
+            description: 'JavaScript/JQuery/CSS',
+            link: "https://sylviaprabudy.github.io/timed-code-quiz/",
+            repo: "https://github.com/sylviaprabudy/timed-code-quiz"
         },
         {
             name: 'password-generator',
-            description: 'MERN Stack',
-            link: "https://github.com",
-            repo: "https://github.com"
+            description: 'HTML/CSS/JavaScript',
+            link: "https://sylviaprabudy.github.io/password-generator/",
+            repo: "https://github.com/sylviaprabudy/password-generator"
         },
         {
             name: 'note-taker',
-            description: 'HTML/CSS',
-            link: "https://github.com",
-            repo: "https://github.com"
+            description: 'Node/Express/Bootstrap',
+            link: "http://note-taker-90210.herokuapp.com/",
+            repo: "https://github.com/sylviaprabudy/note-taker"
         },
         {
             name: 'work-day-scheduler',
-            description: 'Node/IoT',
-            link: "https://github.com",
-            repo: "https://github.com"
+            description: 'HTML/CSS/JavaScript',
+            link: "https://sylviaprabudy.github.io/work-day-scheduler/",
+            repo: "https://github.com/sylviaprabudy/work-day-scheduler"
         },
         {
             name: 'taskmaster-pro',
-            description: 'React/JavaScript/CSS',
-            link: "https://github.com",
-            repo: "https://github.com"
+            description: 'HTML/CSS/JavaScript',
+            link: "https://sylviaprabudy.github.io/taskmaster-pro/",
+            repo: "https://github.com/sylviaprabudy/taskmaster-pro"
+        },
+        {
+            name: 'git-it-done',
+            description: 'HTML/Bootstrap/JavaScript',
+            link: "https://sylviaprabudy.github.io/git-it-done/",
+            repo: "https://github.com/sylviaprabudy/git-it-done"
         }
     ]);
 

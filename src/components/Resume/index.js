@@ -9,7 +9,7 @@ function Resume() {
     ]);
     const [currentPage] = useState(pages[0]);
     return (
-        <section className="bg-primary">
+        <section className="bg-dark">
             <div className="container">
                 <div className="row">
                     <div className="col-lg-10 mx-auto text-white mb-4">

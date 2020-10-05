@@ -403,3 +403,14 @@ form label:hover {
 .margin-top {
   margin-top: 50px;
 }
+
+.portfolio-box-caption-content {
+  line-height: 2rem;
+}
+.portfolio-box-caption-content a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+.portfolio-box-caption-content i.fab {
+  font-size: 2rem;
+}
