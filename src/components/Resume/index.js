@@ -14,6 +14,7 @@ function Resume() {
                 <div className="row">
                     <div className="col-lg-10 mx-auto text-white mb-4">
                         <h1 className="text-center">{capitalizeFirstLetter(currentPage.name)}</h1>
+                        <hr className="light my-4" />
                         <h3>Front-end Proficiencies</h3>
                         <ul>
                             <li>HTML</li>
@@ -45,6 +46,7 @@ function Resume() {
                             <li>PHP</li>
                             <li>ExpressionEngine</li>
                         </ul>
+                        
                         <p className="text-center">
                             Download my <a href="../../../src/assets/img/SylviaPrabudy_Resume.pdf" className="text-faded white-link" download>resume</a>
                         </p>

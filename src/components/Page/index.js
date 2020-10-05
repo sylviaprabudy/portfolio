@@ -25,7 +25,6 @@ function Page({ currentPage }) {
 
   return (
     <section>
-      
       <PageContent>{renderPage()}</PageContent>
     </section>
   );
