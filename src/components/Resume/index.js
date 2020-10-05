@@ -48,7 +48,7 @@ function Resume() {
                         </ul>
                         
                         <p className="text-center">
-                            Download my <a href="../../../src/assets/img/SylviaPrabudy_Resume.pdf" className="text-faded white-link" download>resume</a>
+                            Download my <a href="https://sylviaprabudy.github.io/portfolio/SylviaPrabudy_Resume.pdf" className="text-faded white-link" download>resume</a>
                         </p>
                     </div>
                 </div>
