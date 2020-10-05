@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.40285d26.chunk.css",
+    "main.js": "/static/js/main.c6a1ebb8.chunk.js",
+    "main.js.map": "/static/js/main.c6a1ebb8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.4088cdf0.chunk.js": "/static/js/2.4088cdf0.chunk.js",
+    "static/js/2.4088cdf0.chunk.js.map": "/static/js/2.4088cdf0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.706f1e5bbd4ec6d26b83e5a2fc0f304b.js": "/precache-manifest.706f1e5bbd4ec6d26b83e5a2fc0f304b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.40285d26.chunk.css.map": "/static/css/main.40285d26.chunk.css.map",
+    "static/js/2.4088cdf0.chunk.js.LICENSE.txt": "/static/js/2.4088cdf0.chunk.js.LICENSE.txt",
+    "static/media/code-quiz.jpg": "/static/media/code-quiz.5fdc6c77.jpg",
+    "static/media/covid-traveling.jpg": "/static/media/covid-traveling.cd00ab0b.jpg",
+    "static/media/food-festival.jpg": "/static/media/food-festival.37a7e356.jpg",
+    "static/media/git-cookin.jpg": "/static/media/git-cookin.202256fe.jpg",
+    "static/media/git-it-done.jpg": "/static/media/git-it-done.c7fa83e1.jpg",
+    "static/media/index.css": "/static/media/header.b1d68575.jpg",
+    "static/media/note-taker.jpg": "/static/media/note-taker.e1c11773.jpg",
+    "static/media/password-generator.jpg": "/static/media/password-generator.c3cdde74.jpg",
+    "static/media/run-buddy.jpg": "/static/media/run-buddy.d900df37.jpg",
+    "static/media/taskmaster-pro.jpg": "/static/media/taskmaster-pro.7ce62a6b.jpg",
+    "static/media/tech-blog.jpg": "/static/media/tech-blog.9e079e3e.jpg",
+    "static/media/weather-dashboard.jpg": "/static/media/weather-dashboard.80aaba57.jpg",
+    "static/media/work-day-scheduler.jpg": "/static/media/work-day-scheduler.d0031df7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/2.4088cdf0.chunk.js",
+    "static/css/main.40285d26.chunk.css",
+    "static/js/main.c6a1ebb8.chunk.js"
+  ]
+}
