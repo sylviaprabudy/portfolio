@@ -19,7 +19,7 @@ function App() {
     const [currentPage, setCurrentPage] = useState(pages[0]);
 
     return (
-        <div id="page-top">
+        <div>
             <Header>
         <Nav
           pages={pages}
