@@ -37,6 +37,11 @@ h6 {
   font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
 }
 
+h1 {
+  font-size: 3rem;
+  margin-bottom: 30px;
+}
+
 .bg-primary {
   background-color: #f05f40 !important;
 }
@@ -136,10 +141,10 @@ body {
   #mainNav .navbar-nav > li.nav-link {
     padding: 0.5rem 1rem;
   }
-  #mainNav .navbar-nav > li.nav-link,
+  /* #mainNav .navbar-nav > li.nav-link,
   #mainNav .navbar-nav > li.nav-link:focus {
-    /* color: rgba(255, 255, 255, 0.7); */
-  }
+   color: rgba(255, 255, 255, 0.7);
+  } */
   #mainNav .navbar-nav > li.nav-link:hover,
   #mainNav .navbar-nav > li.nav-link:focus:hover {
     color: rgba(0, 0, 0, 0.7);
@@ -165,7 +170,7 @@ body {
   }
 }
 
-header.masthead {
+div.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
   background-image: url("./assets/img/header.jpg");
@@ -175,36 +180,36 @@ header.masthead {
   -o-background-size: cover;
   background-size: cover;
 }
-header.masthead hr {
+div.masthead hr {
   margin-top: 30px;
   margin-bottom: 30px;
 }
-header.masthead h1 {
+div.masthead h1 {
   font-size: 2rem;
   margin-bottom: 30px;
 }
-header.masthead p {
+div.masthead p {
   font-weight: 300;
 }
 @media (min-width: 768px) {
-  header.masthead p {
+  div.masthead p {
     font-size: 1.15rem;
   }
 }
 @media (min-width: 992px) {
-  header.masthead {
+  div.masthead {
     height: 100vh;
     min-height: 650px;
     padding-top: 0;
     padding-bottom: 0;
   }
-  header.masthead h1 {
-    font-size: 3rem;
+  div.masthead h1 {
+    font-size: 2.5rem;
   }
 }
 @media (min-width: 1200px) {
-  header.masthead h1 {
-    font-size: 4rem;
+  div.masthead h1 {
+    font-size: 3rem;
   }
 }
 
@@ -320,6 +325,10 @@ footer a {
   margin: 20pt;
 }
 
-footer i.fab{
+footer i.fab {
   font-size: 2rem;
+}
+
+a.white-link {
+  color: #fff;
 }
