@@ -13,8 +13,8 @@ function Portfolio() {
         {
             name: 'git-cookin',
             description: 'MERN Stack',
-            link: "https://github.com",
-            repo: "https://github.com"
+            link: "http://git-cookin.herokuapp.com/",
+            repo: "https://github.com/sylviaprabudy/git-cookin"
         },
         {
             name: 'covid-traveling',
@@ -40,18 +40,45 @@ function Portfolio() {
             link: "https://github.com",
             repo: "https://github.com"
         },
+        {
+            name: 'code-quiz',
+            description: 'MERN Stack',
+            link: "https://github.com",
+            repo: "https://github.com"
+        },
+        {
+            name: 'password-generator',
+            description: 'MERN Stack',
+            link: "https://github.com",
+            repo: "https://github.com"
+        },
+        {
+            name: 'note-taker',
+            description: 'HTML/CSS',
+            link: "https://github.com",
+            repo: "https://github.com"
+        },
+        {
+            name: 'work-day-scheduler',
+            description: 'Node/IoT',
+            link: "https://github.com",
+            repo: "https://github.com"
+        },
+        {
+            name: 'taskmaster-pro',
+            description: 'React/JavaScript/CSS',
+            link: "https://github.com",
+            repo: "https://github.com"
+        }
     ]);
 
     return (
         <section className="p-0">
             <div className="container-fluid p-0">
-            <h1 className="text-center margin-top">{capitalizeFirstLetter(currentPage.name)}</h1>
-                    <hr className="my-4" />
-
+                <h1 className="text-center margin-top">{capitalizeFirstLetter(currentPage.name)}</h1>
+                <hr className="my-4" />
                 <div className="row no-gutters popup-gallery">
-                    
-                    <div className="col-lg-4 col-sm-6">
-                        
+                   
                         {projects.map((project, idx) => (
                             <Project
                                 project={project}
@@ -59,7 +86,7 @@ function Portfolio() {
                             />
                         ))}
                     </div>
-                </div>
+                
             </div>
         </section>
     );
