@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { capitalizeFirstLetter } from '../../utils/helpers';
+import Pdf from "../../assets/img/SylviaPrabudy_Resume.pdf";
 
 function Resume() {
     const [pages] = useState([
@@ -47,7 +48,7 @@ function Resume() {
                             <li>ExpressionEngine</li>
                         </ul>
                         <p className="text-center">
-                            Download my <a href="./src/assets/img/SylviaPrabudy_Resume.pdf" className="text-faded white-link" download>resume</a>
+                            Download my <a href={Pdf} className="text-faded white-link" download>resume</a>
                         </p>
                     </div>
                 </div>
