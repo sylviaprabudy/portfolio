@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29491bde22bda2efd6ea79e9adb2eb63",
+    "revision": "2539e72f3a8174c1b06fc7af17059e9c",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "20f07f9887d0d8e39ca8",
+    "revision": "cc45a5f3c644ce34357d",
     "url": "/portfolio/static/css/main.b4838d26.chunk.css"
   },
   {
-    "revision": "57bb24abc334123644c3",
-    "url": "/portfolio/static/js/2.4088cdf0.chunk.js"
+    "revision": "8cb954078d1bff15e93b",
+    "url": "/portfolio/static/js/2.2193c0ee.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/portfolio/static/js/2.4088cdf0.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.2193c0ee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "20f07f9887d0d8e39ca8",
-    "url": "/portfolio/static/js/main.6f1c826a.chunk.js"
+    "revision": "cc45a5f3c644ce34357d",
+    "url": "/portfolio/static/js/main.8a5a8b82.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
     "url": "/portfolio/static/js/runtime-main.209c2d7e.js"
+  },
+  {
+    "revision": "bc81f533e75fe9328556eda14bc07afd",
+    "url": "/portfolio/static/media/SylviaPrabudy_Resume.bc81f533.pdf"
   },
   {
     "revision": "5fdc6c77bb513dbe070ef7aa15e175be",
