@@ -19,8 +19,8 @@ A portfolio site using React.js Single Page Application to showcase the projects
 
 
 ## Screenshots
-![](src/assets/img/Porfolio-Desktop.gif)
-![](src/assets/img/Porfolio-Mobile.gif)
+![](src/assets/img/Portfolio-Desktop.gif)
+![](src/assets/img/Portfolio-Mobile.gif)
 
 
 ## Technologies Use
