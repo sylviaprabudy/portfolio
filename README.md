@@ -15,12 +15,12 @@ A portfolio site using React.js Single Page Application to showcase the projects
 - A brief explanation of my professional experience on About Me page.
 - Users can see my works on Portfolio page.
 - Users also can send a message on Contact me.
-- Displaying my skills on Resume. Will alsi be able to download a PDF version of my resume.
+- Displaying my skills on Resume. Users are be able to download a PDF version of my resume.
 
 
 ## Screenshots
-![](assets/img/Porfolio-Desktop.gif)
-![](assets/img/Porfolio-Mobile.gif)
+![](src/assets/img/Porfolio-Desktop.gif)
+![](src/assets/img/Porfolio-Mobile.gif)
 
 
 ## Technologies Use
