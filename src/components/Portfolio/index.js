@@ -23,6 +23,12 @@ function Portfolio() {
             repo: "https://github.com/sylviaprabudy/covid-traveling"
         },
         {
+            name: 'br-for-java',
+            description: 'MERN Stack',
+            link: "https://br-for-java.herokuapp.com/",
+            repo: "https://github.com/sylviaprabudy/br-for-java"
+        },
+        {
             name: 'run-buddy',
             description: 'HTML/CSS',
             link: "https://sylviaprabudy.github.io/run-buddy/",
