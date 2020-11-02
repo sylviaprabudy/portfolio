@@ -87,12 +87,6 @@ function Portfolio() {
             description: 'HTML/Bootstrap/JavaScript',
             link: "https://sylviaprabudy.github.io/git-it-done/",
             repo: "https://github.com/sylviaprabudy/git-it-done"
-        },
-        {
-            name: 'git-it-done',
-            description: 'HTML/Bootstrap/JavaScript',
-            link: "https://sylviaprabudy.github.io/git-it-done/",
-            repo: "https://github.com/sylviaprabudy/git-it-done"
         }
     ]);
 
