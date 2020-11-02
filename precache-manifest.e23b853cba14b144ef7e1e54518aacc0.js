@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7887442fcb72f477b9003e69af6969fd",
+    "revision": "8b0fc494c9cba313c0e9481b303047de",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "f89cbed54adf3e609cf5",
+    "revision": "f7290e7982675241ce51",
     "url": "/portfolio/static/css/main.b4838d26.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.2193c0ee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f89cbed54adf3e609cf5",
-    "url": "/portfolio/static/js/main.d1c75978.chunk.js"
+    "revision": "f7290e7982675241ce51",
+    "url": "/portfolio/static/js/main.73bd264d.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bc81f533e75fe9328556eda14bc07afd",
     "url": "/portfolio/static/media/SylviaPrabudy_Resume.bc81f533.pdf"
+  },
+  {
+    "revision": "c8bb57ad33c5912da9af9118f13f9d9f",
+    "url": "/portfolio/static/media/br-for-java.c8bb57ad.jpg"
   },
   {
     "revision": "5fdc6c77bb513dbe070ef7aa15e175be",
