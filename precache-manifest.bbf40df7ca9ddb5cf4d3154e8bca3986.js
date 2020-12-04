@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2903fefe3de53ef13224de8b658c2ff8",
+    "revision": "8007ce71431b9b99624e3337a5d3ea9f",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "80c9171c9f39d01735c3",
+    "revision": "5256a4aba895540f4cca",
     "url": "/portfolio/static/css/main.b4838d26.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.2193c0ee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "80c9171c9f39d01735c3",
-    "url": "/portfolio/static/js/main.de2a11ab.chunk.js"
+    "revision": "5256a4aba895540f4cca",
+    "url": "/portfolio/static/js/main.32e710ba.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
     "url": "/portfolio/static/js/runtime-main.209c2d7e.js"
   },
   {
-    "revision": "bc81f533e75fe9328556eda14bc07afd",
-    "url": "/portfolio/static/media/SylviaPrabudy_Resume.bc81f533.pdf"
+    "revision": "2484d44ae823c015b78c6d2f9ec0d996",
+    "url": "/portfolio/static/media/SylviaPrabudy_Resume.2484d44a.pdf"
   },
   {
     "revision": "c8bb57ad33c5912da9af9118f13f9d9f",
