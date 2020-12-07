@@ -55,7 +55,7 @@ function Contact() {
                     <div className="col-lg-10 mx-auto text-white mb-4">
                     <h1 className="text-center">{capitalizeFirstLetter(currentPage.name)}</h1>
                         <hr className="light my-4" />
-                        <form id="contact-form" onSubmit={handleSubmit}>
+                        <form id="contact-form" onSubmit={handleSubmit} className="mb-5">
                             <div>
                                 <label htmlFor="name">Name:</label>
                                 <input
@@ -99,11 +99,11 @@ function Contact() {
                             </div>
                         </form>
                     
-                        <p className="mb-5">
+                        <h4 className="mb-5">
                             Or simply send me an email at: <br />
                             <a href="mailto:sylviaprabudy@gmail.com">sylviaprabudy@gmail.com</a> <br />
-                            Sylvia Prabudy
-                        </p>
+                            ~ Sylvia Prabudy ~
+                        </h4>
                     
                     </div>
                 </div>
