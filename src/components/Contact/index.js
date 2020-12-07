@@ -98,6 +98,13 @@ function Contact() {
                             <button type="submit" className="btn btn-primary btn-xl js-scroll-trigger">Submit</button>
                             </div>
                         </form>
+                    
+                        <p className="mb-5">
+                            Or simply send me an email at: <br />
+                            <a href="mailto:sylviaprabudy@gmail.com">sylviaprabudy@gmail.com</a> <br />
+                            Sylvia Prabudy
+                        </p>
+                    
                     </div>
                 </div>
             </div>
